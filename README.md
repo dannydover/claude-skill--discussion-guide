@@ -18,7 +18,8 @@ Perfect for recurring book club dinners, watch parties, or any group that wants 
 
 ## Example Output
 
-[Link to an example agenda you've generated — either inline or in an examples/ folder]
+Podcast Episode Example - [Radiolab - Colors](examples/radiolab-colors.md)
+
 
 **Sample prompt:**
 > "Create a podcast book club agenda for the *Radiolab* episode 'Colors'"
